@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**AAflip/AAflip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello There
+  <h2>I am a beginner programmer working with these languages</h2>
+  <ul>
+    <li>HTML/CSS</li>
+    <li>JavaScript</li>
+    <li>Java</li>
+    <li>C++</li>
+  </ul>
+  
+### Contributions
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AAflip&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="My github stats" />
