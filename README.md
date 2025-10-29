@@ -7,5 +7,4 @@
     <li>C++</li>
   </ul>
   <h2>My Contributions</h2>
-  <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AAflip&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="My github stats" />
